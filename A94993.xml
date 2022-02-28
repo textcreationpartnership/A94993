@@ -1,0 +1,296 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The true characters of the educations, inclinations and several dispostions of all and every one of those bloody and barbarous persons, who sate as judges upon the life of our late dread soveraign King Charls I. Of ever blessed memory. Together with a true accompt of the horrid temptations and suggestions, by which the principallest of them did first draw in themselves, and afterwards their associates unto the committing of that execrable murder.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1660</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 24 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A94993</idno>
+            <idno type="STC">Wing T2605</idno>
+            <idno type="STC">Thomason E1080_15</idno>
+            <idno type="STC">ESTC R207877</idno>
+            <idno type="EEBO-CITATION">99866901</idno>
+            <idno type="PROQUEST">99866901</idno>
+            <idno type="VID">119189</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A94993)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 119189)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 161:E1080[15])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The true characters of the educations, inclinations and several dispostions of all and every one of those bloody and barbarous persons, who sate as judges upon the life of our late dread soveraign King Charls I. Of ever blessed memory. Together with a true accompt of the horrid temptations and suggestions, by which the principallest of them did first draw in themselves, and afterwards their associates unto the committing of that execrable murder.</title>
+               </titleStmt>
+               <extent>[5], 6, [1] p. : ill.  </extent>
+               <publicationStmt>
+                  <publisher>printed for Edward Thomas, at the sign of the Adam and Eve in Little Brittain without Aldersgate,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1661. [i.e. 1660]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Barbarous persons = the regicides.</note>
+                  <note>Woodcut illus. facing t.p.</note>
+                  <note>Annotation on Thomason copy: "Decemb: 14th", "1660"; 1 in imprint date crossed out.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Charles --  I, --  King of England, 1600-1649 --  Early works to 1800.</term>
+               <term>Regicides --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Charles II, 1660-1685 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-11</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2009-11</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="frontispiece">
+            <pb facs="tcp:119189:1"/>
+            <p>
+               <figure>
+                  <head>A liuely Repreſentation of the manner how his late Majeſty was beheade<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> uppon the Scaffold Ian: 30: 1648:</head>
+               </figure>
+               <figure>
+                  <head>A repreſentation of the execution of the Kings Judges.</head>
+               </figure>
+            </p>
+         </div>
+         <div type="title_page">
+            <pb facs="tcp:119189:1" rendition="simple:additions"/>
+            <p>The True CHARACTERS OF THE Educations, Inclinations and ſeveral Diſpoſitions Of all and every one of thoſe Bloody and Barbarous Perſons, Who Sate as <hi>Judges</hi> upon the Life of our late <hi>Dread Soveraign KING</hi> CHARLS I. Of ever Bleſſed Memory.</p>
+            <p>TOGETHER With a True Accompt of the Horrid Tem<g ref="char:EOLhyphen"/>ptations and Suggeſtions, by which the Principalleſt of them did firſt draw in themſelves, and afterwards their Aſſociates unto the Committing of that Execrable Murder.</p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Edward Thomas,</hi> at the Sign of the <hi>Adam</hi> and <hi>Eve</hi> in <hi>Little Brittain</hi> without <hi>Alderſgate,</hi> 1661.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:119189:2"/>
+            <pb facs="tcp:119189:2"/>
+            <head>To the Reader.</head>
+            <p>THe Conſpirators and Abettors in taking a<g ref="char:EOLhyphen"/>way the Life of His late Sacred Majeſty, as they were many in Number, ſo their Crimes were not all of one Latitude; they are therefore diſtinguiſhed by their Puniſhments, as they are di<g ref="char:EOLhyphen"/>ſtinguiſhed by the Nature and Degrees of their Offences: The moſt Capitall being Excepted both for Life and Eſtate; in which Number there are Forty nine: Others onely to ſuffer in their Eſtates, in which Number there are Seven. And ſome others the Abettors, the Principall whereof is <hi>William Lenthall,</hi> to ſuffer both in Life and Eſtate, if they ſhall be found for the time to come to accept of any Offices, Civill or Military, or to act any thing prejudicial to the Government of his Sacred Majeſty: And in this Number there are Eighteen ſpecified in the Act of General Pardon and Indemnity.</p>
+            <p>You are to underſtand, that diverſe of the Contrivers and Actors in the Life of His late Sa<g ref="char:EOLhyphen"/>cred
+<pb facs="tcp:119189:3"/>Majeſty, were taken away by the hand of Death, before the Eye of Juſtice could take any notice of them. They are in Number foure and Twenty; the Chiefeſt and the Ringleaders of them <hi>Oliver Cromwell,</hi> that Bloody and Prodigious Uſurper; and <hi>Iohn Bradſhaw,</hi> who Sentenced His Majeſty to Death; two Perſons ſo odious in their Deeds and Memory, that <hi>Needham</hi> who became their own Creature, and Wrote upon their accompts the <hi>Publick Intelligencer,</hi> and <hi>Mercurius Politicus,</hi> doth in his Praiſes of them recite it, as a thing very Remarkable, <hi>That they both dyed on their own Beds!</hi> Theſe two above with <hi>Henry Ireton</hi> and <hi>Thomas Pride</hi>'s Bodies are Ordered by the Parliament to be taken out of their Graves, and Drawn on an Hurdle to <hi>Ty<g ref="char:EOLhyphen"/>born,</hi> where they are to be Hanged up, for being Traytors to their lawfull King and Country, and then after buried under the Gallows, as a juſt Deſert for ſuch Regicides.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:119189:3"/>
+            <head>The true Characters of the Educations and ſeve<g ref="char:EOLhyphen"/>ral Diſpoſition of all thoſe Barbarous Perſons, who Sate as Judges on our late dread Soveraign King <hi>Charls</hi> the <hi>I.</hi>
+            </head>
+            <p>THIS <hi>Oliver Cromwell,</hi> was alwayes a great ſtickler againſt Monarchy and Epiſcopacy, and long before the Wars began, had many long and private Conferences with his Friends, for a thorough Alteration: On the beginning of the Wars his Eſtate was not valued to amount to above Thirteen hundred pounds in money, with which he intended to purchaſe at a cheap rate, ſome of the new drained. Lands in <hi>Lincolnſhire;</hi> but the Wars favouring him, he paſſed the ſeveral Degrees of Military Command, and aſpiring after Soveraignty, waded through the blood of his own natural Prince; after which no Cruelty was unpractiſed by him, for the maintenance of his greatneſſe. In the height whereof, he was taken out of the world; And he who ſpilled ſo much blood, and thirſted after more, being dead, and diſſected (to the Admiration both of the Chyrurgians and ſtanders by) there was not ſo much as one Drop of Blood found in his own heart.</p>
+            <p>
+               <hi>Iohn Bradſhaw,</hi> A Councellor at Law in <hi>Grayes Inn,</hi> and a Judge at <hi>Guild Hall, London,</hi> was Preſident of the High Court of Juſtice, where having Sentenced our Soveraign Lord the King to Death: was afterwards heard to ſay, <hi>That he had very well ſatisfied his own conſcience with the <g ref="char:V">Ʋ</g>nparalleled Murther that he had committed.</hi>
+            </p>
+            <p>
+               <hi>Thomas Harriſon,</hi> Major General: The ſon of a Butcher in <hi>Staffordſhire,</hi> ſer<g ref="char:EOLhyphen"/>vant to Mr. <hi>Hulher</hi> an Atturny in <hi>Cliffords Inn,</hi> a man always of a factious ſpirit, and of dangerous principles in Religion; which made him acceptable to the beginners of the late War, he was not only a malicious Judge againſt his Majeſty, but one of thoſe who appointed the time and place of execution, and was exe<g ref="char:EOLhyphen"/>cuted by the hand of Juſtice in the ſight of the place he appointed.</p>
+            <p>
+               <hi>Henry I<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eton,</hi> The ſon of a Miniſter, and a great enemy to the Clergy, he married the daughter of the Uſurper, and was altogether of his father-in-laws temper, and was one of thoſe who appointed, the time and place for the Exe<g ref="char:EOLhyphen"/>cution.</p>
+            <p>
+               <hi>Sr. Hardreſſe Waller,</hi> A Colonel of Horſe, and a Great Committee-man, one of thoſe who Sentenced the King, and who at his arraignment confeſſed him<g ref="char:EOLhyphen"/>ſelf to be guilty.</p>
+            <p>Col. <hi>Iohn O<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ey.</hi> Firſt a Stoaker in a Brew-houſe at <hi>Iſlington,</hi> and afterwards a Chandler in <hi>Thames-ſtreet,</hi> where he converted his blew Apron into a Buffe Coat, and afterwards became a Colonel of Dragoons, an inveterate enemy to the King, and one who appointed the place of the Execution.</p>
+            <p>
+               <hi>Francis Allen,</hi> A Gold Smith in <hi>Fleet ſtreet,</hi> and a very unfit man, if he had either wit or grace in him, to be a judge on his own King</p>
+            <p>
+               <hi>Iohn Alured,</hi> One who at firſt pretended to much conſcience, but afterwards being made Colonel, and inured to bloud and cruelty, made nothing to waſh his own hand in the bloud of his Royal Soveraign.</p>
+            <pb n="2" facs="tcp:119189:4"/>
+            <p>
+               <hi>Iohn Carew,</hi> a man aſſenting to his brothers death, as he had done to the Kings, he was of Major General <hi>Harriſons</hi> principles, and did partake of the ſame end with him.</p>
+            <p>
+               <hi>Adrean Scroop,</hi> Deſcended of a good family in <hi>Buckinghamſhire,</hi> but being a great Puritan was eaſily drawn in to be one of the black liſt, which ſate upon the death of his own King, for which he himſelf ſuffered as a Traytor.</p>
+            <p>
+               <hi>Thomas Scot,</hi> Borne in <hi>Buckinghamſhire,</hi> by his policy did ariſe to great pre<g ref="char:EOLhyphen"/>ferment, and to a vaſt Fortune, he was not only one of thoſe who Judged the King, but deſired that the infamy of the act might be engraven as a Badge of Ho<g ref="char:EOLhyphen"/>nour on his Tombe, in theſe words, <hi>Here lyes.</hi> Thomas Scot <hi>who adjudged to Death the late King.</hi>
+            </p>
+            <p>
+               <hi>Iohn Blackiſtone,</hi> A ſhopkeeper in <hi>New-Caſtle,</hi> and by an acceſſe of fortune ſwoln to an exceſſe of ambition, he was one of the Kings Judges.</p>
+            <p>
+               <hi>Daniel Blagrave,</hi> A Councellor at Law, and a great Committee man, he was a Conſtant Rumper, and by the Tribe of Traytors thought a very fit perſon to ſit among them on the Death of their Soveraign.</p>
+            <p>
+               <hi>Miles Corbet,</hi> Of <hi>Norfolk,</hi> at the beginning of the Parliament, a man of a very conſiderable eſtate; If he had not been a Jew or worſe then <hi>Judas,</hi> he had never condemned his innocent Maſter unto Death.</p>
+            <p>
+               <hi>Cregory Clement,</hi> A merchant who having ſold his conſcience, not ſo much be<g ref="char:EOLhyphen"/>trayed as condemned his Maſter, for which he hath ſince ſuffered as a Traytor.</p>
+            <p>Sr <hi>William Conſtable,</hi> being driven into neceſſity by his Debts, ſold his Land to Sr <hi>Marmaduke Langdale</hi> for twenty thouſand pound, the money being recei<g ref="char:EOLhyphen"/>ved, he had his Lands given him again by the Parliament for his good ſervice, (be like) being one of the Judges on the Death of the King.</p>
+            <p>Sr. <hi>Iohn Danvers,</hi> a perſon much degenerating from the honour of his noble Family, who thinking it ſafeſt to go on the ſtrongeſt ſide, was drawn to be one of the Judges, who ſat on the Kings Death.</p>
+            <p>
+               <hi>George Fleetwood,</hi> another of the ſame temper, and who being one of his So<g ref="char:EOLhyphen"/>veraign Judges, acknowledged himſelf to be guilty of it.</p>
+            <p>
+               <hi>Cornelſus Holland,</hi> was firſt a poore Boy in the Court, and waited on Sr. <hi>Henry Vane,</hi> Controwler of the Princes Houſe. He afterwards by fraud attained unto a very great Eſtate, and was one of the Kings Judges, and the <hi>Rump</hi> being turned out by <hi>Lambert,</hi> he was thought worthy to be one of that moſt ridiculous Com<g ref="char:EOLhyphen"/>mittee of Safety.</p>
+            <p>
+               <hi>Iohn Hewſon,</hi> a Schoomaker of <hi>London,</hi> he was alſo a great ſtickler for the Cauſe for which he was made firſt a Colonel, and afterwards a Lord; having been the cauſe of the murder of ſome boys playing at Foot-ball in the ſtreets, he was found guilty by the Coroners Jury, but being one of the murtherous Judges that ſate upon his Prince, he will be found guilty by another Jury, if he be appre<g ref="char:EOLhyphen"/>hended.</p>
+            <p>
+               <hi>Iohn Iones,</hi> firſt a Serving-man, afterwards a Colonel, and married the Uſurpers ſiſter, and a very fit man to joyn with him in the taking away the life of his Prince, for which he ſuffered as a Traytor.</p>
+            <p>
+               <hi>Iohn Liſle,</hi> none of the leaſt Adverſaries to the late King, he conſtantly aſſiſted the Uſurper in all his Ambitious Practiſes, and in his ſpilling of Innocent blood, He was a great man amongſt the chiefeſt of thoſe that paſſed ſentence upon their King.</p>
+            <p>
+               <hi>Nicholas Love,</hi> the ſon of Doctor <hi>Love</hi> of <hi>Wincheſter,</hi> a conſtant and a contu<g ref="char:EOLhyphen"/>macious <hi>Rumper,</hi> one of his Soveraigns cruell Judges, and an Abjurator againſt Kingly Power.</p>
+            <p>Sr. <hi>Michael Liveſey,</hi> one that could act an Hypocrite to the life in voice and ge<g ref="char:EOLhyphen"/>ſture;
+<pb n="3" facs="tcp:119189:4"/>he was one of his Majeſties moſt cruel Judges, and very eminent in the <hi>Rump Parliament.</hi>
+            </p>
+            <p>
+               <hi>Henry Marten,</hi> Colonel of a Regiment of Horſe, and (ſomeſay) of a Regiment of Whores: Having ſold his Eſtate three times over, he lay many years a Priſo<g ref="char:EOLhyphen"/>ner in the Kings Bench for debt; he laboured a long time under a bad Reputa<g ref="char:EOLhyphen"/>tion, but the greateſt of all is, that he was one of the wilfull Judges of his own Soveraign.</p>
+            <p>
+               <hi>Thomas Hammond</hi> of <hi>Surrey,</hi> was firſt under the Lord <hi>Fairfax,</hi> and after<g ref="char:EOLhyphen"/>wards a great Creature of the Uſurpers, and a Conſtant promoter of his Intereſts, by whom he was induced to be one of thoſe moſt cruell Judges againſt his own Prince, to the great grief of his moſt Learned and Reverend Brother, Dr. <hi>Henry Hammond.</hi>
+            </p>
+            <p>
+               <hi>Iohn Moore,</hi> heretofore Colonel of the Guards, and who ſometime had the benefit of the Paſſes out of the City of <hi>London;</hi> and one of the black Liſt, who condemned his own Soveraign.</p>
+            <p>
+               <hi>Gilbert Millington,</hi> a kinde of a Lawyer, and a Chair-man to the Committee of Plundred Miniſters, where <hi>Phelps</hi> and he ſhared large Fees; another of the Kings moſt unlawfull Judges.</p>
+            <p>Sr <hi>Iohn Bourchier,</hi> a perſon of no great repute, nor eſtate till in thoſe trou<g ref="char:EOLhyphen"/>bled times, he got that which he fought for; He was obſerved to be as conſtant at Committees, as at his Dinners in <hi>Hel<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> in <hi>Weſtminſter,</hi> one would have thought a man that did eat ſo much, ſhould have but a little deſire to drink any deep draughts, eſpecially of the Royall blood of his own Soveraign, at whoſe Tryall he was too unmercifull a Judge.</p>
+            <p>
+               <hi>Thomas Challoner,</hi> a man moſt violently invective againſt Monarchy, as for his hypocriſie and Religion, there is no man can give you a better Teſtimony of him than Monſieur <hi>Cone,</hi> who was Confeſſor to the late Pope, and who was very Converſant with him, when ſome years ſince he was at <hi>Rome;</hi> but it is to be believed, that the Confeſſor himſelf (unleſſe without ſome manifeſt ſignes of true Repentance) would be very unwilling to Abſolve him of his barbarous Mur<g ref="char:EOLhyphen"/>der of his own Soveraign</p>
+            <p>
+               <hi>Richard Dean,</hi> firſt, but as a kinde of a <hi>Hayman</hi> in <hi>Suffolk,</hi> and afterwards a Matroſſe in the Artillary of the Army: Being an abſolute creature (amongſt ma<g ref="char:EOLhyphen"/>ny others) of the Uſurpers; he was by him conſtituted one of the Generals at Sea, where he loſt his life; but neither the loſſe of his Bowels or his Arm, was able to make the leaſt ſatisfaction for the loſſe of his Majeſties life, who by him (being one of his Judges) not long before was barbarouſly Sentenced to a moſt unworthy Death.</p>
+            <p>
+               <hi>Henry Mildmay<g ref="char:punc">▪</g>
+               </hi> a monſter of Ingratitude, a ſhallow fellow (by ſome not un<g ref="char:EOLhyphen"/>fitly called Sr. <hi>Whimſey Mildmay</hi>) of a ſhallow apprehenſion, and fit to take any Impreſſion, otherwiſe he would never become Judge of that King, whom he was bound to honour and pray for all the dayes of his life.</p>
+            <p>
+               <hi>Iohn Barkſtead,</hi> in his minority of <hi>Francis Allens</hi> occupation, and a pittifull Goldſmith in the <hi>Strand:</hi> He forſook his ſhop at the very firſt news of the War, and ſhuffled himſelf into the Camp; being a true ſervant all along to the Uſur<g ref="char:EOLhyphen"/>per, who conſtantly preferred him from one place to another; he became a moſt ſevere perſecutor of the Kings party, and was one of his worſt Judges.</p>
+            <p>
+               <hi>Edmund Harvey,</hi> heretofore a poore Silkman, but being become a Colonel, he juggled himſelf into the Biſhop of <hi>Londons</hi> houſe at <hi>Fulham;</hi> he was a factious Rumper, and one of his Majeſties moſt cruell Judges.</p>
+            <pb n="4" facs="tcp:119189:5"/>
+            <p>
+               <hi>William Heavingham,</hi> of <hi>Heavingham</hi> Caſtle in <hi>Suffolk,</hi> a Gentleman of an ancient Family, and by the evill Council of the implacable <hi>Rumpers</hi> drawn in to be one of the Judges againſt the King.</p>
+            <p>
+               <hi>Iohn Downs,</hi> a profeſſed hater of any Government in one ſingle Perſon, and therefore more eaſily wrought upon to be an Aſſiſtant in the death of his moſt righteous Soveraign.</p>
+            <p>
+               <hi>Iames Temple,</hi> a great <hi>Rumper</hi> himſelf, and a perſon much be friended by them, he made himſelf famous by no other Act at all, but that moſt abhomi<g ref="char:EOLhyphen"/>nable one of being one of the Judges of his own Soveraign.</p>
+            <p>
+               <hi>Simon Meyn,</hi> a great Committee man in the Long Parliament, and ha<g ref="char:EOLhyphen"/>ving got much by them, he eaſily became a <hi>Rumper,</hi> and ſo became one of the Judges of his King.</p>
+            <p>
+               <hi>Iohn Dixwell,</hi> Burgeſſe for <hi>Dover,</hi> a perſon who hath many curſes from the greateſt part of thoſe who had to doe with him in <hi>Kent;</hi> but that which renders him moſt accurſed, is his wilfull Conſpiring amongſt many others of his fellow Judges, to take away the life of our moſt gracious Soveraign.</p>
+            <p>
+               <hi>Iſaac Ewer,</hi> at firſt but a Serving-man, was preferred afterwards to be a Co<g ref="char:EOLhyphen"/>lonel, and had many Acres given him in <hi>Ireland</hi> for his good ſervice, and for be<g ref="char:EOLhyphen"/>ing one of the cruell Judges againſt the King.</p>
+            <p>Sr. <hi>Gregory Norton,</hi> a man of no conſiderable fortune before theſe wars, but he obtained afterwards <hi>Richmond Houſe,</hi> and much of the Kings goods for an inconſiderable value, which made him to lend ſo ready an eare for the taking away of the Kings life, he being one of the Judges that murmured themſelves in<g ref="char:EOLhyphen"/>to a conſpiracy againſt it.</p>
+            <p>
+               <hi>William Purefoy,</hi> Governor of <hi>Coventry;</hi> advancing once to fight with a party of the Kings, and hearing they were numerous, he hid himſelf in a Barley field, for which one of his ſervants that was afterwards a Waterman, refuſed to Ferry him over the water; he was a great Committee man, and one of the Kings Judges.</p>
+            <p>
+               <hi>Iſaac Pennington,</hi> Alderman, he was protected againſt creditors, yet hath bought ſtore of Biſhops Lands; he was an implacable enemy to the King and one of his murderous Judges.</p>
+            <p>
+               <hi>Thomas Andrews,</hi> Was Illegally made Lord Mayor, on purpoſe to Proclaim the act againſt Kingly Government; A fit perſon therefore to be one of the Judges that murdered their moſt Gracious Soveraign.</p>
+            <p>
+               <hi>Owen Roe,</hi> One of the Firebrands of the City, being a profeſſed enemy to its antient Government and one of the Kings Judges.</p>
+            <p>
+               <hi>Robert Titchborn,</hi> Alderman; a Knight, and a Lord of <hi>Olivers</hi> making, which he deſerved for being one of the moſt cruell Judges againſt his King; afterwards was very forward in proclaiming the Act for no kingſhip: He was one of Do<g ref="char:EOLhyphen"/>ctor <hi>Hewits</hi> Judges, and not long ſince a mighty man in the Committee, ſo called, of Safety.</p>
+            <p>
+               <hi>William G<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ffe,</hi> Apprentiſe to a Salter in <hi>London,</hi> and his time being out, he be took himſelf to the Cauſe, and from a Quarter-maſter was preferred to be a Colonel; He was a Lord of the Uſurpers making, a great aſpirer unto Military dignities; and one of his Soveraigns moſt cruell Judges.</p>
+            <p>
+               <hi>Thomas Horton,</hi> In his extraction very inconſiderable, being Servant and Falconer to Sr. <hi>Arthur Haſelrige,</hi> a perſon of ſo little note, that he ſeemed one<g ref="char:EOLhyphen"/>ly to be remarkable in wickedneſſe, by filling up the number of the Judges that ſate on the Life of our late renowned Soveraign.</p>
+            <pb n="5" facs="tcp:119189:5"/>
+            <p>
+               <hi>Henry Smith,</hi> one of the Six Clerks, an implacable Enemy to all Sove<g ref="char:EOLhyphen"/>raignty, and another of his Princes Murtherers.</p>
+            <p>
+               <hi>Anthony Stapley,</hi> lived ſometimes in the reputation of an honeſt man, but by the temptation of crooked Intereſts, being drawn aſide unto the Uſurpers Faction, he became one of the mercileſſe Judges of his moſt gracious Sove<g ref="char:EOLhyphen"/>raign.</p>
+            <p>
+               <hi>William Say,</hi> a ſtately Committee-man in <hi>Kent,</hi> and thorough paced Law<g ref="char:EOLhyphen"/>yer, who conceiving he could not better add unto his greatneſſe, then by com<g ref="char:EOLhyphen"/>plying with the Times, became one of the moſt unjuſt Judges againſt his own So<g ref="char:EOLhyphen"/>veraign.</p>
+            <p>
+               <hi>Peter Temple,</hi> another great Committee-man; an odious Rumper, and one of the Judges of his Soveraign.</p>
+            <p>
+               <hi>Iohn Ven,</hi> ſometimes Governour of <hi>Windſor,</hi> and one who had made himſelf rich with the Kings goods and moveables, and rather than part with any of it, he became one of his greedy and covetous Judges.</p>
+            <p>
+               <hi>Edward Whaley,</hi> a kinde of a Woollen Draper, flying from his Debts in <hi>Lon<g ref="char:EOLhyphen"/>don,</hi> to the exerciſe of Arms, was alwayes a great promoter of the Uſurpers de<g ref="char:EOLhyphen"/>ſignes, he was one of the accurſed crue that durſt ſit in Judgement upon the death of his Soveraign.</p>
+            <p>
+               <hi>Thomas Wayt,</hi> a great and greedy heaper up of moneys, an Enemy to the Publick, to advance his private Intereſts, and one of the Kings Judges.</p>
+            <p>
+               <hi>Valentine Wauten,</hi> Governour of <hi>Lin Regis,</hi> who hath often times been ac<g ref="char:EOLhyphen"/>cuſed for Corruption and Oppreſſion, and knew not how to defend one wicked<g ref="char:EOLhyphen"/>neſſe, but by committing a greater, <hi>viz.</hi> by being one of the Judges on the life of our late Soveraign.</p>
+            <p>
+               <hi>Iohn Cook,</hi> who was he that did Read his Majeſties Charge, in the pretended High Court of Juſtice, and for which and many other Treaſonable attempts of the ſame nature, he hath ſince ſuffered as a Traitor.</p>
+            <p>
+               <hi>Daniel Axtell,</hi> Colonel, who being proved to have a very high hand in the Kings Death, by incouraging his Souldiers and otherwiſe, hath ſince ſuffered as a Traytor.</p>
+            <p>
+               <hi>Francis Hacker,</hi> one of thoſe to whom the bloody Warrant for his Majeſties Execution was directed, hath ſince ſuffered the pains of death according to the merits of that Treaſonable Treſpaſſe which he committed.</p>
+            <p>
+               <hi>William Hewlet,</hi> having in a moſt deſperate vain-glory, boaſted, that he was the Perſon who ſevered the Head (of our late Dread Soveraign King <hi>Charls</hi> the I.) from his Body, is Condemned to ſuffer accordingly, as he hath deſerved.</p>
+            <p>
+               <hi>Hugh Peters,</hi> had very many Witneſſes that did bring in their Evidence a<g ref="char:EOLhyphen"/>gainſt him, and ſo clearly, that he could not deny it. Being Sentenced to death, he ſeemed afterwards in a kinde of diſtracted condition, and unprepared to dye, but on the day following, he was drawn on a hurdle to <hi>Charing Croſſe,</hi> where he was Hanged, Drawn and Quartered; His Head and Quarters faſtned on ſeveral Poles, are hanging on ſeveral Gates of the City.</p>
+            <p>
+               <hi>Edward Dendy,</hi> Serjeant at Arms, who carried the Mace before the King, and behaved himſelf very inſolently both in Words and Deeds to his late ſacred Majeſty, is Exempted from all Pardon, and to ſuffer the loſſe both of life and goods.</p>
+            <pb n="6" facs="tcp:119189:6"/>
+            <p>
+               <hi>Andrew Broughton,</hi> a great Committee-man, and an implacable Enemy to the Crown and King-ſhip, is another of that vile Liſt, that durſt ſit in Judge<g ref="char:EOLhyphen"/>ment upon his late Majeſty.</p>
+            <p>Sir <hi>Henry Vane,</hi> a great diſcontent during all Governments that but tended unto Monarchy; and late Treaſurer to the Navy, who intended to match his Son to <hi>Lamberts</hi> Daughter, is likewiſe Exempted from Pardon either to Life or Fortunes.</p>
+            <p>
+               <hi>Iohn Lambert,</hi> Who was ſo inveterate againſt the King, that having loſt all, he deſired that <hi>Richard Cromwell</hi> might be choſen Protector, than Our Dread Soveraign ſhould be reſtored to the Crown; Is for that and many other Trea<g ref="char:EOLhyphen"/>ſonable Practiſes exempted alſo from Pardon either to Life or Fortunes.</p>
+            <p>I ſhall conclude all with the memorable Example of Gods Divine <hi>Juſtice</hi> upon <hi>Lockyer,</hi> and Active <hi>Agitator</hi> and Leveller in the <hi>Army,</hi> who had a principal hand in ſeiſing and bringing the King to his death, Cried out, <hi>Juſtice, Juſtice, Juſtice,</hi> openly againſt him, and ſpit in the Kings face in <hi>Weſtminſter-Hall</hi> as he was going to his Tryall, before his Condemnation, Conducted him to the Block; and was ſhortly after condemned in a Counſel of War by ſome of the Kings own Judges, and ſhot to death as a Mutinier in <hi>Pauls Church-yard, London.</hi> Alſo <hi>John Lilburn</hi>'s double-Tryall for his life; ſoon after, a grand ſtickler againſt the Houſe of Lords: The proceedings againſt <hi>Saxbey, Syndercombe,</hi> and other <hi>Levellers,</hi> who were chief Inſtruments in that Horrid Murther of our late dread Soveraign, and the Grand Oppoſers of the Houſe of Lords. The ſudden and fearfull Deaths of Collonel <hi>Ven, Rigby,</hi> and others who were Engagers againſt his Majeſty, with the late pangs of Conſcience, which Collonel <hi>William Purefoy</hi> ſuſteyned before his death, for having a hand in the <hi>Kings blood,</hi> which LAY HEAVY ON HIS HEART, as he told ſome friends. The ſudden death of that Tyrant <hi>Oliver Cromwell</hi> and his two Sonnes diſmounting ſoon after; and Gods ſignal Providence to his Majeſty in his Peaceable Reſtauration, Maugre all the Plots and Contrivances of his Enemies.</p>
+            <p>May it not awaken the ſtupid ſeared Conſciences of all thoſe now living, who had any hand in theſe Tragedies and Engagements <hi>againſt King and Par<g ref="char:EOLhyphen"/>liament,</hi> to bring them to ſpeedy and ſincere publick Repentance for them; Leſt they fall into the like <hi>Terrours or Judgments,</hi> as others that have ſo wilful<g ref="char:EOLhyphen"/>ly Engaged in that execrable Murther.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:119189:6"/>
+         </div>
+      </body>
+   </text>
+</TEI>
